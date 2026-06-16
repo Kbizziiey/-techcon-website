@@ -53,3 +53,11 @@ To take this asset template live into production environments:
 - **Semantic HTML5 Architecture**: Implements modern structural elements (`<header>`, `<nav>`, `<main>`, `<footer>`).
 - **Accessible Data Tables**: Includes a structured event schedule featuring proper structural wrappers (`<thead>`, `<tbody>`).
 - **Accessible User Forms**: Features a valid registration system leveraging matching programmatic labels (`for` and `id`), native email validation, and explicit form methods.
+
+
+## Features
+
+- **Semantic HTML5 Architecture**: Implements modern structural elements (`<header>`, `<nav>`, `<main>`, `<footer>`).
+- **Accessible Data Tables**: Includes a structured event schedule featuring proper structural wrappers (`<thead>`, `<tbody>`).
+- **Accessible User Forms**: Features valid registration and contact systems leveraging programmatic labels, email validation, and explicit form methods.
+- **Embedded External Media**: Features secure external links and responsive, titled map iframes.

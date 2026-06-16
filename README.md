@@ -46,3 +46,10 @@ To take this asset template live into production environments:
 1. **Source Asset Mapping**: Input an optimized, compressed imagery path (such as `.webp` or `.avif`) inside the `<img>` tag `src` attribute.
 2. **Context Enrichment**: Expand the interior space of the `<article>` node with descriptive paragraphs (`<p>`), secondary subheadings (`<h2>`), and speaker bullet points (`<ul>`).
 3. **Route Verification**: Note that the first item in the `<header>` navigation array currently targets `index.html` with the text "About". Update this text node to "Home" to synchronize with your layout routing scheme.
+
+
+## Features
+
+- **Semantic HTML5 Architecture**: Implements modern structural elements (`<header>`, `<nav>`, `<main>`, `<footer>`).
+- **Accessible Data Tables**: Includes a structured event schedule featuring proper structural wrappers (`<thead>`, `<tbody>`).
+- **Accessible User Forms**: Features a valid registration system leveraging matching programmatic labels (`for` and `id`), native email validation, and explicit form methods.

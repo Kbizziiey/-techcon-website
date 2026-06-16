@@ -21,7 +21,7 @@ The baseline structure maps the primary routing links to independent system modu
 └── contact.html      # Helpdesk, venue tracking, and maps
 ```
 
-## 🛠️ Implementation Requirements
+##  Implementation Requirements
 
 To transition this blueprint into active production, developers must configure the media playback attributes within the `<main>` container:
 
